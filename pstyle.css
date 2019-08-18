@@ -1,0 +1,368 @@
+
+*
+{
+    margin: 0;
+    padding: 0;
+}
+
+.home
+{
+    background-image: url(imag/business-2.jpg);
+    background-size: cover;
+    height: 700px;
+    overflow: auto;
+    box-shadow: inset 0px 0px 400px 110px rgba(0, 0, 0, 0.6);
+
+     
+}
+.content
+{
+    margin-top: 320px;
+    text-align: center;
+    
+}
+.bttn
+{
+    
+    font-family: 'Open Sans', sans-serif;
+    background: #4caf50;
+    font-weight: 700;
+    padding: 11px 20px;
+    border-radius: 4px;
+    color: #fff;
+    margin-bottom: 12px;
+    border: none;
+    margin: 10px;
+
+}
+.content p
+{
+        font-size: 50px;
+    line-height: 1.3em;
+    text-align: center;
+    color: #fff;
+        margin: 10px;
+
+}
+.content h3
+{
+    color: #fff;
+    font-size: 20px;
+    line-height: 1.3em;
+    text-align: center;
+        margin: 10px;
+
+}
+.nav ul
+{
+    list-style-type:none;
+    padding-left: 0;
+    overflow: hidden;
+}
+.nav ul li
+{
+    padding: 10px;
+    float: right;
+    padding-top: 20px;
+}
+.nav ul li a
+{
+    color: #fff;
+    font-size: 18px;
+    text-decoration: none;
+    display: block;
+    margin-right: 25px;
+}
+.nav img
+{
+    height: 50px;
+    margin-right: 30px;
+    
+}
+.nav .logo
+{
+    float: left;
+    padding-top: 0px;
+}
+.nav .navhome
+{
+    background-color: black;
+    padding: 15px 10px;
+    font-family: cursive;
+}
+.keyss
+{
+    float: left;
+    width: 16.666%;
+    margin-bottom: 150px;
+    margin-top: 120px;
+    
+}
+.keys
+{
+    background: black;
+    margin-right: 120px;
+}
+.keys img
+{
+    margin-left: 170px;
+    margin-right: 30px;
+    width: 16.666%;
+    height: auto
+        
+}
+.hkeys
+{
+    color: black;
+        font-size: 22px;
+    margin-bottom: 11px;
+    font-family: cursive;
+    
+}
+.pkeys
+{       color: #888; 
+        font-size: 20px;
+        font-family:serif;
+}
+.layers
+{
+    background: #f8f8f8;
+    width: 100%;
+    margin-bottom: 50px;
+    margin-top: 50px;
+    overflow: auto;   
+}
+.layers .layer
+{
+    width :27%;
+    float: left;
+    margin: 40px 40px; 
+    overflow: auto;
+    background: white;
+}
+.layers .layer img
+{
+    width: 100%;
+}
+.hlayers
+{
+    text-align: center;
+    font-size: 36px;
+    margin-top: 100px;
+    font-family: inherit;
+}
+.players
+{
+    text-align: center;
+    font-size: 21px;
+    color: #888;
+    margin-top: 30px;
+    margin-bottom: 20px;
+     
+}
+.link1
+{
+    font-family: inherit;
+    font-size: 22px;
+    color: #303030;
+text-decoration:none;
+    
+}
+.nestdiv
+{
+    margin: 30px 30px;
+}
+.pplayer
+{
+    margin-bottom: 20px;
+    margin-top: 20px;
+    font-family: cursive;
+    font-size: 18px;
+        color: #888;
+
+}
+.link2
+{
+     font-family: cursive;
+    font-size: 18px;
+        color: #888;
+    text-decoration: none; 
+}
+.bttn2
+{
+    
+    font-family: 'Open Sans', sans-serif;
+    background: #4caf50;
+    font-weight: 700;
+    padding: 11px 20px;
+    border-radius: 4px;
+    color: #fff;
+    border: none;
+    margin-top: 50px;
+    margin-left: 30px;
+
+    
+
+}
+.layer2
+{
+    float: left;
+     width: 50%;
+    
+}
+.layer2 img
+{
+    width: 80%;
+    margin-left: 50px;
+    
+}
+.hlayer2
+{
+    margin: 25px 30px;
+    color: #303030;
+    font-size: 30px;
+    font-family: inherit;
+  
+}
+.player2
+{
+    margin: 35px;
+    font-family: 'Open Sans',arial;
+    font-weight: 400;
+    color: #686868;
+    
+}
+.listlayer
+{
+     margin-left: 50px;
+    font-family: 'Open Sans',arial;
+    font-weight: 400;
+    color: #686868;
+    
+}
+.layers2
+{
+    height: 620px;
+    width: 100%;
+}
+.layers3
+{
+    background-image: url(imag/download.jpg);
+    overflow: auto;
+    width: 100%;
+    height: 400px;
+    background-size: cover;
+        box-shadow: inset 0px 0px 400px 110px rgba(0, 0, 0, 0.6);
+
+
+}
+.hlayer3
+{
+    text-align: center;
+    margin-top: 110px;
+    margin-bottom: 10px;
+        font-size: 1.5rem;
+    font-family: inherit;
+    color: white;
+
+}
+.bttn3
+{
+    
+    font-family: 'Open Sans', sans-serif;
+    background: #4caf50;
+    font-weight: 700;
+    padding: 11px 20px;
+    border-radius: 4px;
+    color: #fff;
+    border: none;
+    margin-top: 20px;
+    text-align: center;
+    margin-left: 635px;
+}
+.player3
+{
+  text-align: center;
+    margin-top: 70px;  
+    font-size: 1.15em;
+    margin-bottom: 30px;
+    color: white;
+    font-family: 'Open Sans',arial;
+    font-weight: 400;
+}
+
+.layers4
+{
+    background: #f8f8f8;
+    width: 100%;
+    overflow: hidden;
+    height: 320px;
+
+}
+.layers4 img
+{
+    float: left;
+    width: 13%;
+    margin: 30px 30px;
+    
+}
+.pcontent
+{
+    margin-top: 100px;
+    margin-left: 120px;
+    background: #f8f8f8;
+}
+.layers5
+{
+    background-color: #4caf50;
+    width: 100%;
+    height: 250px;
+        
+}
+.layers5con
+{
+    float: left;
+    
+}
+.bttn4
+{
+    
+    font-family: 'Open Sans', sans-serif;
+    background: #f8f8f8;
+    font-weight: 700;
+    padding: 15px 20px;
+    border-radius: 4px;
+    color: black;
+    border: none;
+    margin-top: 125px;
+    text-align: center;
+    margin-left: 650px;
+}
+.hlayer5
+{
+        font-size: 32px;
+    color: #fff;
+    margin-left: 50px;
+    font-family: inherit;
+    margin-top: 110px;
+    margin-bottom: 20px;
+
+}
+
+.player5
+{
+        font-size: 20px;
+    color: #c7e6c8;
+        font-family: inherit;
+        margin-left: 50px;
+        font-family: cursive;
+
+
+
+    
+
+}
+
+
+
+
